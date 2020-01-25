@@ -1,2 +1,2 @@
 # Digit Recognition
-Python script to train a Neural Network with one hidden layer using Back Propagation Algorithm which is capable of recognising hand written digits.
+Python script to implement a handwritten digit recognition app using the MNIST dataset. We have used a special type of deep neural network that is Convolutional Neural Networks.
